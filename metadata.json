@@ -1,0 +1,6 @@
+{
+  "name": "хиромант_1.042",
+  "description": "Нативное мистическое Android-приложение для анализа ладони (хиромантии) с помощью ИИ Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep mystical dark background -->
+    <path
+        android:fillColor="#0C0C12"
+        android:pathData="M0,0h108v108h-108z" />
+    
+    <!-- Subtle energetic circular patterns -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0"
+        android:strokeWidth="0.5"
+        android:strokeColor="#22D4AF37" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0"
+        android:strokeWidth="0.5"
+        android:strokeColor="#11D4AF37" />
+</vector>

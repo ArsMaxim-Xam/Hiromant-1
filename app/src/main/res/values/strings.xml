@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Хиромант</string>
+    <!-- Configure your Google Sign-In Web Client ID from the Firebase console (Credentials -> Web Client ID) -->
+    <string name="default_web_client_id">618780786712-6mmg3tu3iajglcjmqsm0f7e9tcm3g2ab.apps.googleusercontent.com</string>
+</resources>
